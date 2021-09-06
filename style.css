@@ -1,0 +1,36 @@
+.hading{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 133);
+    color: darkblue;
+}
+
+.notnote{
+    font-size: 17;
+    color: aquamarine;
+}
+
+.foot{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(78, 104, 104);
+    color: antiquewhite;
+    width: 100%;
+    line-height: 4;
+}
+
+canvas{
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 133);
+    border: 4px double rgb(67, 186, 255);
+    margin-top: 24px;
+}
+
+VIDEO{
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 133);
+    border: 4px double rgb(67, 186, 255);
+    margin-top: 24px;
+}
